@@ -1,4 +1,4 @@
 ﻿  Main.cpp
-     ライブラリ H:\Make_Dataset_Juliamo\Debug\Make_Dataset_Juliamo.lib とオブジェクト H:\Make_Dataset_Juliamo\Debug\Make_Dataset_Juliamo.exp を作成中
+h:\make_dataset_juliamo\make_dataset_juliamo\main.cpp(14): warning C4189: 'alphabets': ローカル変数が初期化されましたが、参照されていません
   Make_Dataset_Juliamo.vcxproj -> H:\Make_Dataset_Juliamo\Debug\Make_Dataset_Juliamo.exe
   Make_Dataset_Juliamo.vcxproj -> H:\Make_Dataset_Juliamo\Debug\Make_Dataset_Juliamo.pdb (Full PDB)
